@@ -1,0 +1,7 @@
+To make a new suggestion:
+Create a new branch with a snazzy name
+Copy your fit from Eve to the clipboard
+Replace the contents of the Guardian file with your fit
+
+To compare suggestions:
+Create a pull request between two different fits
